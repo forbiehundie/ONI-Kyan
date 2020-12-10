@@ -1,0 +1,8 @@
+(module MX-Stab-cutout (layer F.Cu) (tedit 5FB56D88)
+  (fp_text reference REF** (at 0 8.89) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MX-Stab-cutout (at 0 -5.715) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
