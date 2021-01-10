@@ -215,10 +215,11 @@
 
   (module OniKyan-SS:MkII (layer F.Cu) (tedit 0) (tstamp 5FFC8F51)
     (at 142.8756 110)
-    (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+    (path /5FFBCB0D)
+    (fp_text reference SS0 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
-    (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
+    (fp_text value "MKII SS" (at 0.75 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
     (fp_poly (pts (xy 0.137874 -3.261338) (xy 0.138545 -3.255819) (xy 0.120974 -3.233399) (xy 0.115455 -3.232728)
@@ -5642,10 +5643,11 @@
 
   (module OniKyan-SS:OniKyan_SS (layer F.Cu) (tedit 0) (tstamp 5FFC6C50)
     (at 141.5 130.825519)
-    (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
+    (path /5FFBD6C0)
+    (fp_text reference SS1 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
-    (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
+    (fp_text value "ONI-Kyan Logo Front" (at 0.75 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
     (fp_poly (pts (xy -5.820601 -0.994833) (xy -6.171744 -0.512731) (xy -6.377746 0.047809) (xy -6.432335 0.550333)
@@ -5763,10 +5765,11 @@
 
   (module OniKyan-SS:OniKyan_SS (layer B.Cu) (tedit 0) (tstamp 5FFC680A)
     (at 144.600001 130.825519 180)
-    (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
+    (path /5FFC0754)
+    (fp_text reference SS2 (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
-    (fp_text value LOGO (at 0.75 0) (layer B.SilkS) hide
+    (fp_text value "ONI-Kyan Logo Back" (at 0.75 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
     (fp_poly (pts (xy 5.94858 0.743517) (xy 6.171926 0.589265) (xy 6.448794 0.360637) (xy 6.576311 0.177605)

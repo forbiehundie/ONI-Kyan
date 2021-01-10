@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:CS30 Ergo 3-cache
+LIBS:ONI-Kyan MKI-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1045,4 +1045,37 @@ Connection ~ 4200 3600
 Wire Wire Line
 	4200 3600 4200 3800
 NoConn ~ 1150 7350
+$Comp
+L Graphic:Silkscreen_Placeholder SS0
+U 1 1 5FFBCB0D
+P 4500 6000
+F 0 "SS0" H 4500 6198 50  0000 C CNN
+F 1 "MKII SS" H 4500 6107 50  0000 C CNN
+F 2 "OniKyan-SS:MkII" H 4500 5900 50  0001 C CNN
+F 3 "" H 4500 5900 50  0001 C CNN
+	1    4500 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:Silkscreen_Placeholder SS1
+U 1 1 5FFBD6C0
+P 4500 6500
+F 0 "SS1" H 4500 6698 50  0000 C CNN
+F 1 "ONI-Kyan Logo Front" H 4500 6607 50  0000 C CNN
+F 2 "OniKyan-SS:OniKyan_SS" H 4500 6400 50  0001 C CNN
+F 3 "" H 4500 6400 50  0001 C CNN
+	1    4500 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:Silkscreen_Placeholder SS2
+U 1 1 5FFC0754
+P 4500 7000
+F 0 "SS2" H 4500 7198 50  0000 C CNN
+F 1 "ONI-Kyan Logo Back" H 4500 7107 50  0000 C CNN
+F 2 "OniKyan-SS:OniKyan_SS" H 4500 6900 50  0001 C CNN
+F 3 "" H 4500 6900 50  0001 C CNN
+	1    4500 7000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
