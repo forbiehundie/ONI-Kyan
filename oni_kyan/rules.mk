@@ -23,5 +23,3 @@ AUDIO_ENABLE = no           # Audio output
 AUTO_SHIFT_ENABLE = yes     # Enable Auto Shift
 TAP_DANCE_ENABLE = no       # Enable Tap Dance
 COMBO_ENABLE = no           # Enable Combos
-
-LAYOUTS = Default
